@@ -40,6 +40,8 @@ A principal referência é Hollow Knight, além do folclore brasileiro e da cult
 3D? 2D?
 O jogo será em 2D, estilo comum em jogos metroidvania.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Apresentação do jogo: https://canva.link/ulbc2w2j0egaw6p
 
 Documento Personagens: https://canva.link/p2m3ntafyq5dh1l
